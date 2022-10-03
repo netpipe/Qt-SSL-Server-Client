@@ -6,7 +6,7 @@
 #include <QTableWidget>
 #include <QTableWidgetItem>
 #include "sslserver.h"
-#include "QtWebSockets/QWebSocket"
+//#include "QtWebSockets/QWebSocket"
 
 #include "define.h"
 
